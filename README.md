@@ -25,3 +25,7 @@ timeout 30s tshark -i eth0 -w ~/nmap_capture.pcap
 | 10.68.55.221  | 53         | dnsmasq 2.51    | DNS service open on phone; minimal risk for internal network, but avoid exposing externally |
 | 10.68.55.248  | 22         | OpenSSH 10.0p2  | SSH open on Linux host; ensure strong passwords or key-based authentication |
 
+## Author
+Santhosh Reddy — Intern  
+GitHub: [santhoshreddy28](https://github.com/santhoshreddy28)  
+Email: <your-email-if-you-want>
