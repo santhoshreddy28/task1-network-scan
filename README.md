@@ -6,7 +6,7 @@ This repository contains the results of a local network port scan performed as p
 ## Environment
 - OS: Kali Linux
 - Tools: Nmap, Wireshark/tshark (optional)
-- Scan time: <PUT DATE/TIME HERE>
+- Scan time: Scan time: 22 Sep 2025, 16:00 IST
 - Network Range Scanned: 10.68.55.0/24
 
 ## Commands Used
