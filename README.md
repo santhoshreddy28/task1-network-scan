@@ -28,4 +28,4 @@ timeout 30s tshark -i eth0 -w ~/nmap_capture.pcap
 ## Author
 Santhosh Reddy — Intern  
 GitHub: [santhoshreddy28](https://github.com/santhoshreddy28)  
-Email: <your-email-if-you-want>
+Email: g.l.santhoshreddy@gmail.com
